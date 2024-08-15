@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart</title>
+    <style>
+        /* Basic styling for product cards */
+        .product-card {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+            width: 200px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .product-name {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .product-image {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+        .product-price {
+            font-size: 14px;
+        }
+        .add-to-cart-btn {
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        #cart-summary {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+   <!--- <div class="product-card">
+        <img class="product-image" src="./assest/boxx21.jpg" alt="">
+        <div class="product-name">hairoil</div>
+        <div class="product-price">₹499</div>
+        <button class="add-to-cart-btn" onclick="addToCart('hairoil',499)">Add to Cart</button>
+    </div>
+
+    <div class="product-card">
+        <img class="product-image" src="./assest/boxx22.jpg" alt="">
+        <div class="product-name">daycream</div>
+        <div class="product-price">₹399</div>
+        <button class="add-to-cart-btn" onclick="addToCart('daycream', 399)">Add to Cart</button>
+    </div>
+-->
+
+     
+    <div id="cart-summary">
+        Cart Total: ₹<span id="cart-total">0.00</span>
+    </div>
+
+    <ul id="cart-list"></ul>
+
+    <script>
+        // Initialize cart total
+        let cartTotal = 0;
+
+        // Function to add a product to the cart
+        function addToCart(productName, price) {
+            // Update cart total
+            cartTotal += price;
+            document.getElementById('cart-total').textContent = cartTotal.toFixed(2);
+
+            // You can also store product details in an array or use localStorage/sessionStorage
+            // For simplicity, we're just updating the total here.
+        }
+
+
+
+        
+        
+    </script>
+</body>
+</html>
