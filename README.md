@@ -1,21 +1,23 @@
 # Amazon Clone
 
-## A clone of the Amazon website for practicing web development skills.
+## A clone of the Amazon website.
 
 ## Technologies used :
    1. HTML
    2. CSS
    3. JAVASCRIPT
+   4. PHP
+   5. XAMPP
 
 ## Author :
-   Akash Deep
+   Shruti Dongre
    <br>
-   Email: ad3500476@gmail.com
+   Email: shrutidongre08@gmail.com
    <br>
-   LinkedIn : https://www.linkedin.com/in/akashdeep023/
+   LinkedIn : http://linkedin.com/in/shruti-dongre-650a17314
 
 ## Website Link :
-   url : https://akashdeep023.github.io/Amazon-Clone/
+   url : http://localhost/Amazon-Clone-main/index.html
 
 ## Ex- Image
 ### Home Page
