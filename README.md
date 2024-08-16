@@ -19,17 +19,24 @@
 ## Website Link :
    url : http://localhost/Amazon-Clone-main/index.html
 
-## Ex- Image
-### Home Page
-![Screenshot 2023-12-19 222803](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/76cbf588-128f-4362-a344-8f021f4bcef6)
-![Screenshot 2023-12-19 220750](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/38c77534-3ff6-423a-a917-d479cd18f5af)
-![Screenshot 2023-12-19 220838](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/7bf8bc88-a26b-4797-9095-9d4691afccb7)
-![Screenshot 2023-12-19 220936](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/eeee40a0-a694-4e3f-aa3d-899592c0e40f)
-![Screenshot 2023-12-19 221028](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/f2412acc-f41d-40d7-a6d9-e1d403cfedef)
+## Ex- video
 
-### Footer Page
-![Screenshot 2023-12-19 221108](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/6da7a1d7-500b-483d-b0e4-4816c7b1a4b6)
-![Screenshot 2023-12-19 221136](https://github.com/akashdeep023/Amazon-Clone/assets/126412088/2ee9323f-d01a-43af-b522-45afa1be6b06)
+
+## Ex- Image
+
+### Home Page
+
+![Screenshot 2024-08-15 162244](https://github.com/user-attachments/assets/41e3c869-64fb-4ca4-a3b9-f6c422135c49)
+![Screenshot 2024-07-22 125548](https://github.com/user-attachments/assets/a481972a-c02c-437d-94d2-52a5dc119651)
+![Screenshot 2024-07-22 125632](https://github.com/user-attachments/assets/81eccdf6-a271-4c6f-916b-bb5e43396c31)
+![Screenshot 2024-07-22 125703](https://github.com/user-attachments/assets/c603acaf-0511-4997-8c78-f061f67c4aa5)
+![Screenshot 2024-07-22 125745](https://github.com/user-attachments/assets/e7bc0dc3-d294-4778-bbd0-845ac6c5de2f)
+![Screenshot 2024-07-22 125840](https://github.com/user-attachments/assets/3112424a-696a-4eee-9714-a5d9207ebf22)
+![Screenshot 2024-07-22 130051](https://github.com/user-attachments/assets/e4d7c260-062e-4e3d-a997-857f5b048bea)
+![Screenshot 2024-07-22 130148](https://github.com/user-attachments/assets/03dc0f53-f2b7-4b04-a98d-542e43f76180)
+
+
+
 
 
 ### Thanks for visit... 😊😊😊
