@@ -19,9 +19,6 @@
 ## Website Link :
    url : http://localhost/Amazon-Clone-main/index.html
 
-## Ex- video
-
-
 ## Ex- Image
 
 ### Home Page
